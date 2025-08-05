@@ -3,7 +3,7 @@ import { VscSignOut } from "react-icons/vsc"
 import { useDispatch, useSelector } from "react-redux"
 import { useNavigate } from "react-router-dom"
 
-import { sidebarLinks } from "../../../data/dashboard-links"
+import { sidebarLinks } from "../../../data/dashboardLinks"
 import { ACCOUNT_TYPE } from "../../../utils/constants"
 import { logout } from "../../../services/operations/authAPI"
 import ConfirmationModal from "../../common/ConfirmationModal"
