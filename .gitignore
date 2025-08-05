@@ -104,7 +104,7 @@ tmp/
 temp/
 
 # MongoDB data
-data/
+/data
 
 # Uploads folder (if you have file uploads)
 uploads/
