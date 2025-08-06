@@ -29,6 +29,7 @@ app.use(
             "https://localhost:3000",
             "https://studynotion-frontend.vercel.app",
             "https://studynotion.vercel.app",
+            "https://study-notion-sages.vercel.app/",
             process.env.FRONTEND_URL
         ].filter(Boolean),
         credentials: true,
